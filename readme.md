@@ -1,4 +1,4 @@
-👋 HI!
+👋 HI! <br />
 🔰 I'm frontend developer
 
 ---
