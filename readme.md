@@ -1,5 +1,6 @@
-HI!
+👋 HI!
+🔰 I'm frontend developer
 
 ---
 
-Hi
+📚 Skills: HTML, CSS, SCSS, JS, TS, React, Framer Motion, Vite
