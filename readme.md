@@ -7,7 +7,8 @@
 **<p align="center"> 
 STATS** 
 </p> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtsyomPinevich&show_icons=true&theme=codeSTACKr)<br />
 
-![](https://komarev.com/ghpvc/?username=ArtsyomPinevich&color=red)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtsyomPinevich&show_icons=true&theme=codeSTACKr) <br />
+
+![](https://komarev.com/ghpvc/?username=ArtsyomPinevich&color=red) <br />
 
