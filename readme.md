@@ -7,7 +7,10 @@
 📚 Skills: HTML, CSS, SCSS, JS, TS, React, Framer Motion, Vite
 
 ---
+<p align="center"> 
 **STATS** <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtsyomPinevich&show_icons=true&theme=codeSTACKr)<br />
 
 ![](https://komarev.com/ghpvc/?username=ArtsyomPinevich&color=red)<br />
+
+</p>
